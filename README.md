@@ -1,1 +1,1 @@
-Template for Javascript learning
+Week 10 Application Template
