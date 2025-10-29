@@ -4,7 +4,7 @@
 // This file handles DOM interactions and event listeners
 // to make the Flask app more interactive for users.
 // -------------------------------------------------------------
-
+console.log("Script is loaded. . .")
 // Wait for the page to load before running scripts
 document.addEventListener("DOMContentLoaded", () => {
 
